@@ -9,6 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
+    color: black;
 }
 
 h1, h2, h5 {
